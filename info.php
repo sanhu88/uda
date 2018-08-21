@@ -1,7 +1,8 @@
 <?php
 phpinfo();
 
-	function daily{
+	function daily2{
+		return false;
 		return false;
 	}
 ?>
