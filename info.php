@@ -2,6 +2,6 @@
 phpinfo();
 
 	function dev{
-		returen true;
+		return true;
 	}
 ?>
